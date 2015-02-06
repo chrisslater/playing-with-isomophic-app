@@ -1,0 +1,20 @@
+{
+  "name": "isomophic-demo",
+  "version": "0.0.0",
+  "description": "Isomophic pattern demo for work and self learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "gulp": "~3.8.10",
+    "reactify": "~1.0.0",
+    "coffee-script": "~1.8.0",
+    "coffeeify": "~1.0.0",
+    "browserify": "~8.1.1",
+    "vinyl-transform": "~1.0.0",
+    "gulp-uglify": "~1.1.0"
+  }
+}
